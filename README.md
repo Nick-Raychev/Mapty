@@ -8,7 +8,7 @@ Features <br>
 - Data Storage: Workouts are stored locally or on a remote server for later retrieval.<br>
 - User-Friendly Interface: Intuitive interface design for seamless user experience.<br>
 - Technologies Used<br>
-- -HTML<br>
+- HTML<br>
 - CSS<br>
 - JavaScript<br>
 - Mapping API (e.g., Google Maps, Mapbox)<br><br>
