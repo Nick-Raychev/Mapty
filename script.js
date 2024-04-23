@@ -73,10 +73,6 @@ class App {
   #mapEvent;
   #workouts = [];
   constructor() {
-    // Deleteing Popup
-    // closeButton.addEventListener('click', function () {
-    //   console.log('yes');
-    // });
     // Get user Position
     this.#getPosition();
 
@@ -158,9 +154,6 @@ class App {
       const cadance = +inputCadence.value;
       // Check if data is valid
       if (
-        // !Number.isFinite(distance) ||
-        // !Number.isFinite(duration) ||
-        // !Number.isFinite(cadance)
         !validInputs(distance, duration, cadance) ||
         !allPositive(distance, duration, cadance)
       )
@@ -284,9 +277,6 @@ class App {
         duration: 1,
       },
     });
-
-    // using the public interface
-    // workout.click();
   }
 
   #setLocalStorage() {
@@ -315,5 +305,3 @@ class App {
 }
 
 const app = new App();
-
-//
