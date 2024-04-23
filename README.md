@@ -7,7 +7,7 @@ Features <br>
 - Geolocation: Utilizes geolocation data to pinpoint the location of workouts.<br>
 - Data Storage: Workouts are stored locally or on a remote server for later retrieval.<br>
 - User-Friendly Interface: Intuitive interface design for seamless user experience.<br>
-- Technologies Used<br>
+- <b>Technologies</b><br>
 - HTML<br>
 - CSS<br>
 - JavaScript<br>
