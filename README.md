@@ -1,4 +1,4 @@
-# Mapty Project
+# Mapty Project 🗺
 Mapty is a web application that allows users to track their workouts, such as running or cycling, on an interactive map. <br>
 
 Features <br>
@@ -7,12 +7,12 @@ Features <br>
 - Geolocation: Utilizes geolocation data to pinpoint the location of workouts.<br>
 - Data Storage: Workouts are stored locally or on a remote server for later retrieval.<br>
 - User-Friendly Interface: Intuitive interface design for seamless user experience.<br><br>
-  <b>Technologies</b><br>
+  <b>Technologies</b>⚙<br>
 - HTML<br>
 - CSS<br>
 - JavaScript<br>
 - Mapping API (e.g., Google Maps, Mapbox)<br><br>
-<b>Setup</b><br>
+<b>Setup</b>🔴<br>
 - To run the Mapty project locally, follow these steps:<br>
 
 - Clone the repository to your local machine.<br>
