@@ -19,4 +19,4 @@ Features <br>
 - Open the index.html file in your web browser.<br>
 - Start tracking your workouts!<br><br>
   <b>Contribution</b><br>
-Contributions to the Mapty project are welcome! If you have any suggestions, bug fixes, or new features to add, feel free to open an issue or submit a pull request.<br>
+  🤝Contributions to the Mapty project are welcome! If you have any suggestions, bug fixes, or new features to add, feel free to open an issue or submit a pull request.<br>
