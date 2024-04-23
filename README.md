@@ -11,7 +11,7 @@ Features <br>
 - HTML<br>
 - CSS<br>
 - JavaScript<br>
-- Mapping API (e.g., Google Maps, Mapbox)<br><br>
+- Geolocation API (e.g., Google Maps, Leaflet)<br><br>
 <b>Setup</b>🔴<br>
 - To run the Mapty project locally, follow these steps:<br>
 
