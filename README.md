@@ -6,7 +6,7 @@ Features <br>
 - Interactive Map: The application displays the workouts on an interactive map, allowing -users to visualize their routes.<br>
 - Geolocation: Utilizes geolocation data to pinpoint the location of workouts.<br>
 - Data Storage: Workouts are stored locally or on a remote server for later retrieval.<br>
-- User-Friendly Interface: Intuitive interface design for seamless user experience.<br>
+- User-Friendly Interface: Intuitive interface design for seamless user experience.<br><br>
   <b>Technologies</b><br>
 - HTML<br>
 - CSS<br>
